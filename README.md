@@ -1,1 +1,1 @@
-# resources
+# resources/note for learning
